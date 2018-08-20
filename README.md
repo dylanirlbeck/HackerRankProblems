@@ -2,8 +2,8 @@ This repository houses all of the HackerRankProblems I have completed so far.
 
 Ongoing: 
 
-• Arrays 
+• Arrays (Java)
 
-• SQL 
+• SQL (MySQL)
 
-• Moody's Analytics University Codesprint 2018
+• Moody's Analytics University Codesprint 2018 (Java)
