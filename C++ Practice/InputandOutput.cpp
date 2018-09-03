@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    int firsts;
+    int first;
     int second;
     int third;
     cin >> first >> second >> third;
