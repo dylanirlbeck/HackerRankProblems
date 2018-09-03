@@ -7,3 +7,5 @@ Ongoing:
 • SQL (MySQL)
 
 • Moody's Analytics University Codesprint 2018 (Java)
+
+• C++ Practice
